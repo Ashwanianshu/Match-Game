@@ -1,0 +1,17 @@
+.project-item-container {
+  /* height: 100px;
+  width: 100px; */
+  /* background: #ffffff;
+  box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.06);
+  border-radius: 12px; */
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+}
+
+.project-item-image {
+  width: 60px;
+  height: 60px;
+  /* border: 1px solid transparent;
+  border-radius: 5px; */
+}
